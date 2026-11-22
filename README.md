@@ -1,1 +1,1 @@
-İstanbul 29 Mayıs Üniversitesi'nde Bilgisayar Mühendisliği okuyorum. Latro Kimya'da şirketin web sitesi ve yönetim panelleri üzerinde çalışıyorum. C#, Python, C++ ve web teknolojilerini kullanıyorum; ESP32 ve Arduino ile de projeler yapıyorum.
+İstanbul 29 Mayıs Üniversitesi'nde Bilgisayar Mühendisliği okuyorum. Latro Kimya'da şirketin web sitesi ve yönetim panelleri üzerinde çalışıyorum. Yapay zekâ ve makine öğrenmesi tabanlı otomasyonlar geliştiriyorum. C#, Python, C++ ve web teknolojilerini kullanıyorum; ESP32 ve Arduino ile de projeler yapıyorum.
